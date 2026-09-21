@@ -13,7 +13,7 @@ body::before {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url('file:////home/lab202/Документы/Publii/sites/portfolio-hobbi/input/media/posts/1/bachgr.jpg');
+  background-image: url('https://github.com/wdyw-o/pop/blob/main/bachgr.jpg?raw=true');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
